@@ -1,0 +1,19 @@
+﻿EN ESTE ARCHIVO SE DAN LAS INSTRUCCIONES DE INSTALACIÓN DE LA PRUEBA:
+
+1. SI USA UN SERVIDOR LOCAL COMO XAMPP O WAMPP MUEVA LA CARPETA DE ARCHIVOS A SU HTDOCS PARA EL CASO DE XAMPP O AL WWW EN CASO DE WAMPP.
+2. CORRA EL SCRIPT DE LA BASE DE DATOS EN EL SERVIDOR DE BASE DE DATOS, ESTO PARA QUE SE CREE EL SCHEMA Y LAS TABLAS NECESARIAS PARA LA APP.
+3. SI NO HA ENCENDIDO SU APACHE HÁGALO PARA PODER TENER UN SERVIDOR LOCAL. // Esto si usará un servidor local.
+4. LUEGO DE ESTOS PASOS YA PUEDE ACCEDER A LA PÁGINA WEB COLOCANDO EN SU EXPLORADOR UNA DIRECCIÓN COMO ESTA: 
+
+localhost:(ApachePort)/pruebaPlaceToPay/
+
+Para el correo que se pide se pueden usar los que están en la base de datos
+
+Tipo Persona = Persona
+email: marcovillegasmoises@gmail.com
+
+Tipo Persona = Jurídica
+email: email@mail.com
+NIT: 847582059-5
+
+también puede crear uno si desea desde la misma página.
